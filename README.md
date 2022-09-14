@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Vaz 👋
 
 
-- 🌱 Estudando Python, html, css, javascript
+- 🌱 Estudante de Análise e Desenvolvimento de sistemas.
 
 <div align="center">
   <a href="https://github.com/jv-vazz">
