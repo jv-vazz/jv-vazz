@@ -2,9 +2,6 @@
 
 
 - 🌱 Estudando Python, html, css, javascript
-- 📫 Contate-me no email: jvav2004@hotmail.com
-- 😄 Pronouns: ele/dele
-
 
 <div align="center">
   <a href="https://github.com/jv-vazz">
