@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Vaz 👋
 
 
-- 🌱 Estudando Python, Html, Css, Javascript
+- 🌱 Estudando Python, html, css, javascript
 - 📫 Contate-me no email: jvav2004@hotmail.com
 - 😄 Pronouns: ele/dele
 
