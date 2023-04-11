@@ -2,6 +2,7 @@
 
 
 - 🌱 Estudante de Análise e Desenvolvimento de sistemas.
+- 👨‍💻 Pergunte me sobre Python, JavaScript, Html, Css.
 
 <div align="center">
   <a href="https://github.com/jv-vazz">
