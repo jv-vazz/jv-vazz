@@ -1,4 +1,4 @@
-### Olá! Eu sou o João Vaz 👋
+## Olá! Eu sou o João Vaz 👋
 <h2 align="center" alt="CSS" height="30" width="40"> Backend Developer </h2>
 </br>
 
