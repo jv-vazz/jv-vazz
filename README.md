@@ -1,9 +1,8 @@
 ## Olá! Eu sou o João Vaz 👋
-<h2 align="center" alt="CSS" height="30" width="40" margin="40px"> Backend Developer </h2>
 
-
-- 🌱 Estudante de Análise e Desenvolvimento de sistemas.
-- 👨‍💻 Pergunte me sobre Python, JavaScript, Node.js, HTML, CSS, MongoDB, SQL.
+- 👨‍💻 Desenvolvedor Backend
+- 🌱 Cursando Análise e Desenvolvimento de sistemas (2/5).
+- 👨‍💻 Pergunte me sobre Python, JavaScript, Node.js, Express, HTML, CSS, MongoDB, SQL.
 
 <div align="center">
   <a href="https://github.com/jv-vazz">
