@@ -3,6 +3,10 @@
 
 
 
+
+
+
+
 - 🌱 Estudante de Análise e Desenvolvimento de sistemas.
 - 👨‍💻 Pergunte me sobre Python, JavaScript, Node.js, HTML, CSS, MongoDB, SQL.
 
