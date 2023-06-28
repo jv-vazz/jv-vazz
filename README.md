@@ -1,5 +1,5 @@
 ## Olá! Eu sou o João Vaz 👋
-<h2 align="center" alt="CSS" height="30" width="40" margin="4em"> Backend Developer </h2>
+<h2 align="center" alt="CSS" height="30" width="40" margin="40px"> Backend Developer </h2>
 
 
 - 🌱 Estudante de Análise e Desenvolvimento de sistemas.
